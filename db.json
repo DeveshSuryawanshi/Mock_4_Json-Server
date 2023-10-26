@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Devesh Suryawanshi",
+      "email": "devesh@gmail.com",
+      "password": "Devesh0110"
+    },
+    {
+      "name": "Shreya Pallav",
+      "email": "shreya@gmail.com",
+      "password": "Shreya0110"
+    },
+    {
+      "name": "Naman Mathur",
+      "email": "naman@gmail.com",
+      "password": "Naman0110"
+    }
+  ]
+}
